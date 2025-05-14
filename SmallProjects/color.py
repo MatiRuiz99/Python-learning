@@ -1,0 +1,1 @@
+print("Detección de color")
